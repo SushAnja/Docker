@@ -1,0 +1,2 @@
+FROM ubuntu
+RUN echo "technical guruji" > /etc/sushil
